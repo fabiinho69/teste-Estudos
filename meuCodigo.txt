@@ -3,3 +3,6 @@ Olá, aqui é o Fábio do futuro, já ficando no passado kkk 17:56:58 --version2
 Hello hello, sou eu aqui de novo kk já ficando no passado 18:03:24 --version3
 git reflog comando para ver o historico das branch 18:11:43 --version4
 git reset --hard comando para navegar entre branchs 18:21:12 --version5
+git branch comando para ver em que branch voce está (master é a principal) -
+ git branch staging (staging é o nome para uma nova branch, poderia ser qualquer nome) -
+  git checkout serve para trocar entre as branchs 18:52:45 --version6
